@@ -1,7 +1,6 @@
 # What do they do?
 
-The pfa_cfa_on_customer_personality_analysis.R script performs principal factor analysis (PFA) and confirmatory factor analysis (CFA) on a customer personality dataset. It aims to identify latent factors and evaluate their validity using statistical techniques.
-The exploratory_data_analysis_v5.R script conducts exploratory data analysis (EDA) on a marketing dataset. It includes data cleaning, transformation, and visualization to derive insights from the data.
+The exploratory_data_analysis_v5.R script conducts exploratory data analysis (EDA) on a customer personality dataset. It includes data cleaning, transformation, and visualization to derive insights from the data, which allowed for the next step. The pfa_cfa_on_customer_personality_analysis.R script performs principal factor analysis (PFA) and confirmatory factor analysis (CFA) on the same dataset. It aims to identify latent factors and evaluate their validity using statistical techniques.
 
 # What were the tools used?
 

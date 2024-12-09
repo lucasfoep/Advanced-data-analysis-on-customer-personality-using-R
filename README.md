@@ -12,3 +12,7 @@ Additional libraries for data handling and visualization
 # Why have I made it?
 
 These scripts were created, as part of DePaul's MS in Data Science program, to investigate customer personality traits and their relationships with marketing behaviors. The PFA and CFA analysis aimed to uncover underlying psychological constructs, while the EDA script provided a detailed overview of the dataset's structure and characteristics. Together, they form a comprehensive approach to understanding customer data for strategic marketing decisions.
+
+# PS:
+
+The Exploratory_data_analysis_Lucas_de_Oliveira.pdf file is a report based on the scripts mentioned above, and might be easier to read.
